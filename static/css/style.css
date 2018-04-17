@@ -4,6 +4,11 @@
     padding-bottom: 10em;
 }
 
+.navbar-nav li {
+    color: #ffffff;
+    font-weight: bolder;
+}
+
 .what_is_keep {
     background-color: #87CEEB;
     padding-top: 6rem;
